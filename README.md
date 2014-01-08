@@ -46,7 +46,7 @@ Usage
 ./manage.py runserver
 ```
 
-Then visit http://localhost:8000 in your browser of choice.
+Then visit [http://localhost:8000](http://localhost:8000) in your browser of choice.
 
 License
 -------
@@ -55,10 +55,13 @@ MIT
 
 *Free Software, Fuck Yeah!*
 
+[Alembic]:alembic.readthedocs.org
 [Flask]:flask.pocoo.org
-[PostgreSQL]:http://www.postgresql.org
-[Twitter Bootstrap]:http://twitter.github.com/bootstrap/
 [HTML5 Boilerplate]:html5boilerplate.com
+[PostgreSQL]:http://www.postgresql.org
+[SQLAlchemy]:www.sqlalchemy.org
+[Twitter Bootstrap]:http://twitter.github.com/bootstrap/
 [pip]:https://pypi.python.org/pypi/pip
 [virtualenv]:http://www.virtualenv.org/
 [virtualenvwrapper]:http://virtualenvwrapper.readthedocs.org/en/latest/
+
