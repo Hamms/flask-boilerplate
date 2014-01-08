@@ -1,0 +1,7 @@
+.DS_Store
+dumps*
+config_local.py
+*.pyc
+
+web/local_env/*
+*.sass-cache*

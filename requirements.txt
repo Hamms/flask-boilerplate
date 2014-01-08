@@ -1,0 +1,12 @@
+# Flask etc
+Werkzeug==0.8.3
+Flask==0.9
+Flask-WTF==0.8.3
+Flask-Script==0.5.3
+
+# debug
+flask-debugtoolbar==0.8.0
+
+# DB
+SQLAlchemy==0.9.0
+git+https://github.com/tobiasandtobias/flask-alembic.git@d0f4d3523e115d6376aeba3b0b0cbba3af888add#egg=Flask_Alembic
